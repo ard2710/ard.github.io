@@ -2,7 +2,7 @@
 <head>
 <title></title>
 </head>
-<body background: 1.jpg 10%40% no-repeat;>
+<body bgcolor="black" style="background-repeat: no-repeat; background-size : 1000px; background-position : center">
 <marquee behavior="scroll" bgcolor="1f93e4">
 <b><font size=100px>Selamat Datang</marquee></b><br>
 </body>
